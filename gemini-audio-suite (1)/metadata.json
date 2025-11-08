@@ -1,0 +1,8 @@
+
+{
+  "name": "Gemini Audio Suite",
+  "description": "An application that showcases Gemini's Text-to-Speech and real-time Live API audio conversation capabilities. Users can generate speech from text with various voices or engage in a live voice chat with the AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
